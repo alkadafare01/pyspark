@@ -1,0 +1,3 @@
+Apache Spark is written in Scala programming language. To support Python with Spark, Apache Spark community released a tool, PySpark. Using PySpark, you can work with RDDs in Python programming language also. It is because of a library called Py4j that they are able to achieve this. This is an introductory tutorial, which covers the basics of Data-Driven Documents and explains how to deal with its various components and sub-components.
+
+How to download Pyspark in windows follow this link https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1 and Instructions to enable Apache Spark in Anaconda Installation chrome file.
